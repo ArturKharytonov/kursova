@@ -1,0 +1,18 @@
+﻿  server.cpp
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(81,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(86,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(99,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(103,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(124,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(129,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(146,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(150,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(172,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(177,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(182,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(205,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(239,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(244,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(249,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PROGRAMMING\C++ projects\kursova\server\server.cpp(257,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  server.vcxproj -> D:\PROGRAMMING\C++ projects\kursova\server\x64\Debug\server.exe

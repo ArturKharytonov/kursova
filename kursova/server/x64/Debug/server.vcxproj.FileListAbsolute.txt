@@ -1,0 +1,1 @@
+D:\PROGRAMMING\C++ projects\kursova\server\x64\Debug\server.exe
